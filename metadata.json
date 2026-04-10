@@ -1,0 +1,5 @@
+{
+  "name": "House Prediction AI Model",
+  "description": "A simple and user-friendly house price prediction model for college assignments, powered by heuristic logic and Gemini AI analysis.",
+  "requestFramePermissions": []
+}
